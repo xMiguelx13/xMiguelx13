@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Windows Active Directory Home Lab (AlgoExpert)</b>
+- <b>Windows Active Directory Home Lab</b>
   - [Active Directory](https://github.com/joshmadakor1/Algorithms-Practice)
 - 
 
