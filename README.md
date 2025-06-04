@@ -1,6 +1,6 @@
 <h1>Hi, I'm Miguel! <br/> <a href="https://www.linkedin.com/in/joshmadakor/">IT Support Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 IT Support Projects:</h2>
 
 - <b>Windows Active Directory Home Lab</b>
   - [Active Directory](https://github.com/joshmadakor1/Algorithms-Practice)
