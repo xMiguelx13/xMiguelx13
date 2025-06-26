@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Support Projects:</h2>
 
 - <b>Windows Active Directory Home Lab</b>
-  - [Active Directory](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory](https://github.com/xMiguelx13/Active-Directory)
 - <b>Hello World!</b>
   - [Hello World!](https://github.com/joshmadakor1/Algorithms-Practice)
 
