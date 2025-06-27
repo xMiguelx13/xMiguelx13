@@ -5,7 +5,7 @@
 - <b>Windows Active Directory Home Lab</b>
   - [Active Directory](https://github.com/xMiguelx13/Active-Directory)
 - <b>Hello World!</b>
-  - [Hello World!](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Hello World!]()
 
 
 
